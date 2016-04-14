@@ -5,6 +5,7 @@
  z_depth="floor2"
  is_exit
  is_light_source
+ is_ethereal
  light_radius=3.0
  blit_top_off=2
  blit_bot_off=0

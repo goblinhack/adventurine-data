@@ -4,6 +4,7 @@
  tooltip="level entrance"
  z_depth="floor2"
  is_entrance
+ is_ethereal
  is_light_source
  light_radius=3.0
  blit_top_off=2
