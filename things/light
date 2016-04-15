@@ -10,10 +10,4 @@
  is_hidden
  is_inactive
  d10000_chance_of_appearing=1000
- tiles={
-  tile={
-   tile="torch1"
-   delay_ms=100
-  }
- }
 }
