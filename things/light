@@ -9,5 +9,4 @@
  is_dungeon_floor
  is_hidden
  is_inactive
- d10000_chance_of_appearing=1000
 }
