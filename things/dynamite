@@ -9,8 +9,14 @@
  is_fragile
  is_stackable
  is_carryable
+ is_effect_pulse
  is_animated
+ can_fall
  explodes_as="explosion1"
+ is_light_source
+ is_candle_light
+ light_radius=3.5
+ light_tint="orange"
  d10000_chance_of_appearing=70
  tiles={
   tile={
