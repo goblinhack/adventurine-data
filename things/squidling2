@@ -33,7 +33,7 @@
  fires="plasmaball2"
  weapon_fire_delay_hundredths=50
  d10000_chance_of_appearing=0
- explodes_as="explosion3"
+ explodes_as="explosion1"
  is_light_source
  light_radius=1.5
  light_tint="green"

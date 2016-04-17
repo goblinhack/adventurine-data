@@ -28,7 +28,7 @@ is_levitating
  is_light_source
  light_radius=1.5
  light_tint="red"
- explodes_as="explosion3"
+ explodes_as="explosion1"
  tiles={
   tile={ delay_ms=50 tile="demon1-1" }
   tile={ delay_ms=50 tile="demon1-2" }

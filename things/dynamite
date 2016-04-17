@@ -1,0 +1,44 @@
+{
+ short_name="dynamite"
+ raw_name="dynamite"
+ tooltip="unexploded dynamite"
+ z_depth="obj"
+ is_sleeping
+ is_bomb
+ is_combustable
+ is_fragile
+ is_stackable
+ is_carryable
+ is_animated
+ explodes_as="explosion1"
+ d10000_chance_of_appearing=70
+ tiles={
+  tile={
+   delay_ms=1000
+   tile="dynamite1-1"
+   is_sleeping
+  }
+  tile={
+   delay_ms=1000
+   tile="dynamite1-2"
+  }
+  tile={
+   delay_ms=1000
+   tile="dynamite1-3"
+  }
+  tile={
+   delay_ms=1000
+   tile="dynamite1-4"
+  }
+  tile={
+   delay_ms=1000
+   tile="dynamite1-5"
+  }
+  tile={
+   delay_ms=1000
+   tile="dynamite1-6"
+   is_end_of_anim
+   is_dead_on_end_of_anim
+  }
+ }
+}
