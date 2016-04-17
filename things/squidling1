@@ -23,7 +23,6 @@
  can_fall
  is_not_light_blocking
  is_monst
- is_blit_y_offset
  collision_radius=0.5
  hit_priority=10
  is_cats_eyes

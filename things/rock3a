@@ -14,7 +14,6 @@
  damage=50
  can_be_hit_chance=100
  d10000_chance_of_appearing=1000
- is_blit_y_offset
  is_light_source
  light_radius=3.0
  light_tint="green"
