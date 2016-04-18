@@ -10,12 +10,11 @@
  is_fire
  is_light_source
  explosion_radius=2.0
- light_radius=10.0
+ light_radius=4.0
  collision_radius=3.0
- light_tint="red"
+ light_tint="yellow"
  damage=5
  sound_on_creation="boom"
- hit_delay_tenths=1
  tiles={
   tile={
    tile="explosion3.1"

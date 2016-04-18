@@ -4,7 +4,7 @@
  tooltip="mob spawner"
  z_depth="obj"
  is_mob_spawner
- is_mob_spawner
+ can_fall
  hit_priority=20
  damage=1
  mob_spawn_delay_tenths=100
