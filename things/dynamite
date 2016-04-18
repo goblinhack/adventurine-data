@@ -16,7 +16,7 @@
  is_light_source
  is_candle_light
  light_radius=3.5
- light_tint="orange"
+ light_tint="white"
  d10000_chance_of_appearing=70
  tiles={
   tile={

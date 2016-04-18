@@ -9,6 +9,7 @@
  is_stackable
  hit_priority=1
  is_carryable
+ can_fall
  bonus_gold_on_collect=10
  d10000_chance_of_appearing=100
  is_light_source

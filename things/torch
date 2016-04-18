@@ -14,7 +14,7 @@
  d10000_chance_of_appearing=3500
  is_light_source
  is_candle_light
- light_radius=3.5
+ light_radius=0.5
  light_tint="orange"
  tiles={
   tile={

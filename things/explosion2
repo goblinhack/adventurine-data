@@ -3,7 +3,7 @@
  raw_name="explosion2"
  z_depth="explosion"
  is_animated
- scale=2.0
+ scale=1.5
  is_hidden_from_editor
  is_explosion
  is_animated_no_dir
@@ -12,7 +12,6 @@
  explosion_radius=2.0
  light_radius=4.0
  collision_radius=3.0
- light_tint="yellow"
  damage=5
  sound_on_creation="boom"
  tiles={
