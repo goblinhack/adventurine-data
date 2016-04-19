@@ -14,6 +14,7 @@
  hit_priority=10
  is_animated
  fires="energy1"
+ can_fall
  weapon_fire_delay_hundredths=50
  d10000_chance_of_appearing=100
  tiles={

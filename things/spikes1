@@ -3,12 +3,12 @@
  raw_name="spikes1"
  tooltip="spikes1"
  z_depth="obj2"
- is_inactive
  is_spikes
  hit_priority=9
  damage=50
  is_monst
  is_not_light_blocking
+ can_fall
  can_be_hit_chance=5
  tiles={
   tile={

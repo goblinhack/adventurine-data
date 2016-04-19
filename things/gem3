@@ -3,7 +3,6 @@
  raw_name="gem3"
  tooltip="ruby"
  z_depth="wall_deco"
- is_inactive
  can_fall
  is_treasure
  is_stackable

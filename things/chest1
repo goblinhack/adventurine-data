@@ -3,8 +3,6 @@
  raw_name="chest1"
  tooltip="small treasure chest"
  z_depth="obj"
- is_inactive
- can_fall
  is_treasure
  is_stackable
  hit_priority=1

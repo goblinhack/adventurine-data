@@ -4,7 +4,6 @@
  tooltip="boulder1"
  z_depth="wall"
  is_hard
- is_inactive
  can_fall
  is_obstacle
  hit_priority=9

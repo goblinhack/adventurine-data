@@ -17,6 +17,7 @@
  light_radius=0.5
  light_tint="green"
  is_candle_light
+ can_fall
  hit_priority=22
  is_collision_map_player_sized
  damage=1

@@ -3,7 +3,6 @@
  raw_name="coins"
  tooltip="loose change"
  z_depth="obj"
- is_inactive
  can_fall
  is_treasure
  is_stackable

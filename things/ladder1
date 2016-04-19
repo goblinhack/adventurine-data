@@ -3,8 +3,8 @@
  raw_name="ladder1"
  tooltip="ladder1"
  z_depth="ladder"
- is_inactive
  is_ladder
+ can_fall
  tiles={
   tile={ tile="ladder1-mid1" }
   tile={ tile="ladder1-mid2" }

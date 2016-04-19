@@ -21,114 +21,101 @@
  tiles={
   tile={
    delay_ms=100
-   tile="dynamite1-1"
+   tile="dynamite1.1"
    is_sleeping
   }
   tile={
    delay_ms=100
-   tile="dynamite1-2"
+   tile="dynamite1.2"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-2b"
+   tile="dynamite1.3"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-2"
+   tile="dynamite1.4"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-2b"
+   tile="dynamite1.5"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-3"
+   tile="dynamite1.6"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-3b"
+   tile="dynamite1.7"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-3"
+   tile="dynamite1.8"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-3b"
+   tile="dynamite1.9"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-4"
+   tile="dynamite1.10"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-4b"
+   tile="dynamite1.11"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-4"
+   tile="dynamite1.12"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-4b"
+   tile="dynamite1.13"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-5"
+   tile="dynamite1.14"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-5b"
+   tile="dynamite1.15"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-5"
+   tile="dynamite1.16"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-5b"
+   tile="dynamite1.17"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-6"
+   tile="dynamite1.18"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-6b"
+   tile="dynamite1.19"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-6c"
+   tile="dynamite1.20"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-6"
+   tile="dynamite1.21"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-6b"
+   tile="dynamite1.22"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-6c"
+   tile="dynamite1.23"
   }
   tile={
    delay_ms=100
-   tile="dynamite1-6"
-  }
-  tile={
-   delay_ms=100
-   tile="dynamite1-6b"
-  }
-  tile={
-   delay_ms=100
-   tile="dynamite1-6c"
-  }
-  tile={
-   delay_ms=100
-   tile="dynamite1-6b"
+   tile="dynamite1.24"
    is_end_of_anim
-   is_dead_on_end_of_anim
    is_dead_on_end_of_anim
   }
  }
