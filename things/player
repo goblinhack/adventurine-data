@@ -2,7 +2,6 @@
  short_name="noble warrior"
  raw_name="noble warrior"
  tooltip="noble warrior"
- spawn_on_death={ 500 "bonepile2" }
  z_depth="player"
  speed=1
  max_hp=3
