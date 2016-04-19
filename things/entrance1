@@ -11,6 +11,8 @@
  blit_bot_off=0
  blit_left_off=1
  blit_right_off=1
+ collision_radius=2.0
+ is_ethereal
  tiles={
   tile={
    tile="entrance1-3-2"
