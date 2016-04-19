@@ -11,8 +11,8 @@
  is_monst
  collision_radius=1.2
  hit_priority=9
- max_hp=100
- damage=5
+ max_hp=1
+ damage=1
  is_sawblade
  is_animated
  is_fragile

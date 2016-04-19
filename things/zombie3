@@ -14,8 +14,8 @@
  is_mob_spawner
  z_depth="obj"
  speed=5
- max_hp=10
- damage=6
+ max_hp=1
+ damage=1
  bonus_score_on_death=35
  vision_distance=10
  hit_delay_tenths=5

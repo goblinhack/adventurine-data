@@ -1,12 +1,12 @@
 {
- short_name="dwarf"
- raw_name="dwarf"
- tooltip="dwarf"
+ short_name="noble warrior"
+ raw_name="noble warrior"
+ tooltip="noble warrior"
  spawn_on_death={ 500 "bonepile2" }
  z_depth="player"
  speed=1
- max_hp=250
- hp_per_level=12
+ max_hp=3
+ hp_per_level=1
  can_fall
  is_player
  hit_priority=20
@@ -17,6 +17,7 @@
  light_radius=9.0
  is_collision_map_player_sized
  sound_on_death="player_death"
+ sound_on_hit="player_hit"
  is_animated
  is_animated_only_when_moving
  is_effect_rotate_2way

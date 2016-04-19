@@ -6,7 +6,7 @@
     1000 "zombie3"
  }
  z_depth="obj"
- max_hp=10
+ max_hp=1
  is_undead
  can_fall
  is_not_light_blocking

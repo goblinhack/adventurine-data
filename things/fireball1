@@ -5,7 +5,7 @@
  is_hidden_from_editor
  z_depth="explosion"
  speed=75
- damage=5
+ damage=1
  hit_delay_tenths=1
  is_projectile
  is_animated

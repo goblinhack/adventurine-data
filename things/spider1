@@ -4,8 +4,8 @@
  tooltip="spider"
  z_depth="obj"
  speed=1
- max_hp=10
- damage=5
+ max_hp=1
+ damage=1
  bonus_score_on_death=100
  jump_speed=20
  vision_distance=5

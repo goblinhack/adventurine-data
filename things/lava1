@@ -9,7 +9,7 @@
  is_lava
  hit_delay_tenths=5
  hit_priority=0
- damage=10
+ damage=1
  is_joinable
  is_animated
  is_effect_pulse

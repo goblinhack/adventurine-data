@@ -10,7 +10,7 @@
  is_monst
  is_acid
  hit_delay_tenths=5
- damage=5
+ damage=1
  is_joinable
  mob_spawn_delay_tenths=10
  lifespan_ticks=10

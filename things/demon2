@@ -4,8 +4,8 @@
  tooltip="fire demon"
  z_depth="obj"
  speed=10
- max_hp=550
- damage=20
+ max_hp=1
+ damage=1
  bonus_score_on_death=800
  is_effect_rotate_2way
  vision_distance=20

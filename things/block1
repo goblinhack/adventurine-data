@@ -7,7 +7,7 @@
  can_fall
  is_obstacle
  hit_priority=9
- damage=50
+ damage=1
  can_be_hit_chance=50
  tiles={
   tile={

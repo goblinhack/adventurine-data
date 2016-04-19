@@ -4,7 +4,7 @@
  tooltip="epic bone pile"
  mob_spawn={ 1000 "ghost4" }
  z_depth="obj"
- max_hp=10
+ max_hp=1
  is_mob_spawner
  can_fall
  is_effect_pulse

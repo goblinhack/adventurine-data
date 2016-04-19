@@ -4,8 +4,8 @@
  tooltip="giant spider"
  z_depth="obj"
  speed=1
- max_hp=200
- damage=15
+ max_hp=1
+ damage=1
  bonus_score_on_death=250
  jump_speed=20
  vision_distance=8

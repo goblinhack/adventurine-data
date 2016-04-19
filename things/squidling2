@@ -13,8 +13,8 @@
  is_mob_spawner
  z_depth="obj"
  speed=5
- max_hp=500
- damage=20
+ max_hp=1
+ damage=1
  is_effect_rotate_2way
  bonus_score_on_death=4500
  vision_distance=20
