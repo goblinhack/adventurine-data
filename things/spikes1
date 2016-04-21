@@ -15,19 +15,8 @@
    tile="spikes1-1"
   }
   tile={
-   tile="spikes1-2"
-  }
-  tile={
-   tile="spikes1-3"
-  }
-  tile={
-   tile="spikes1-4"
-  }
-  tile={
-   tile="spikes1-5"
-  }
-  tile={
-   tile="spikes1-6"
+   tile="spikes1-1-blood"
+   is_dead
   }
  }
 }
