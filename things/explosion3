@@ -13,7 +13,7 @@
  light_radius=4.0
  collision_radius=2.0
  damage=1
- sound_on_creation="boom"
+ sound_on_creation="explosion"
  tiles={
   tile={
    tile="explosion3.1"
