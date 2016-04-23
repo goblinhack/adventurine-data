@@ -11,7 +11,7 @@
  is_light_source
  explosion_radius=2.0
  light_radius=4.0
- collision_radius=3.0
+ collision_radius=2.0
  damage=1
  sound_on_creation="boom"
  tiles={

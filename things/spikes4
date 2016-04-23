@@ -17,7 +17,7 @@
   }
   tile={
    tile="spikes4-1-blood"
-   is_dead
+   is_bloodied
   }
  }
 }
