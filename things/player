@@ -15,7 +15,7 @@
  is_candle_light
  light_tint="white"
  light_radius=9.0
- is_collision_map_player_sized
+ is_collision_map_medium
  sound_on_death="player_death"
  sound_on_hit="player_hit"
  is_animated

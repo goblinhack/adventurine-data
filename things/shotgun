@@ -16,7 +16,7 @@
  is_carryable
  is_fragile
  d10000_chance_of_appearing=1
- is_collision_map_player_sized
+ is_collision_map_medium
  is_animated
  weapon_carry_anim="shotgun_anim"
  tiles={

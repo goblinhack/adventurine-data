@@ -17,7 +17,7 @@
  weapon_fire_delay_hundredths=30
  is_fragile
  d10000_chance_of_appearing=100
- is_collision_map_player_sized
+ is_collision_map_medium
  weapon_carry_anim="bow1_anim"
  weapon_swing_anim="weapon_swing1"
  tiles={

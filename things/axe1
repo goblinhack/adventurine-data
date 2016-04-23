@@ -16,7 +16,7 @@
  weapon_fire_delay_hundredths=20
  damage=1
  swing_distance_from_player=5
- is_collision_map_player_sized
+ is_collision_map_medium
  d10000_chance_of_appearing=50
  weapon_carry_anim="axe1_anim"
  weapon_swing_anim="weapon_swing1"

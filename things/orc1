@@ -16,7 +16,7 @@
  is_monst
  is_warm_blooded
  hit_priority=10
- is_collision_map_player_sized
+ is_collision_map_medium
  is_animated
  d10000_chance_of_appearing=300
  weapon_fire_delay_hundredths=200

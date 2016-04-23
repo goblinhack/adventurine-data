@@ -4,6 +4,7 @@
  tooltip="spikes1"
  z_depth="obj2"
  is_spikes
+ is_collision_map_small
  hit_priority=9
  damage=1
  is_animated
