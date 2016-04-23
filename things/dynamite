@@ -8,6 +8,7 @@
  is_combustable
  is_fragile
  is_stackable
+ is_throwable
  is_carryable
  is_effect_pulse
  is_animated

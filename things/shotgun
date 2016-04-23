@@ -12,6 +12,7 @@
  sound_on_collect="pickup"
  can_be_enchanted
  hit_priority=0
+ is_throwable
  is_carryable
  is_fragile
  d10000_chance_of_appearing=1

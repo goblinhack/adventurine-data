@@ -13,6 +13,7 @@
  sound_on_death="urgh"
  can_fall
  is_not_light_blocking
+ is_throwable
  is_monst
  is_fires_when_angry
  is_warm_blooded

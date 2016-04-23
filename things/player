@@ -11,6 +11,7 @@
  hit_priority=20
  is_warm_blooded
  is_light_source
+ is_throwable
  is_candle_light
  light_tint="white"
  light_radius=9.0

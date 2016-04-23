@@ -5,6 +5,7 @@
  z_depth="obj"
  is_key
  is_stackable
+ is_throwable
  is_carryable
  d10000_chance_of_appearing=300
  cost=10

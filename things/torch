@@ -4,6 +4,7 @@
  tooltip="one minute torch"
  z_depth="obj"
  is_torch
+ is_throwable
  is_carryable
  is_stackable
  cost=20

@@ -15,6 +15,7 @@
  approach_distance=3
  can_fall
  is_not_light_blocking
+ is_throwable
  is_monst
 is_levitating
  min_appear_depth=1

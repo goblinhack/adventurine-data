@@ -22,6 +22,7 @@
  sound_on_death="urgh"
  can_fall
  is_not_light_blocking
+ is_throwable
  is_monst
  collision_radius=0.5
  is_combustable

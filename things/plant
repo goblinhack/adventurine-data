@@ -14,6 +14,7 @@
  sound_on_death="squelch"
  can_fall
  is_not_light_blocking
+ is_throwable
  is_monst
  hit_priority=10
  is_animated

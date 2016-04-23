@@ -14,6 +14,7 @@
  is_lava_proof
  can_fall
  is_not_light_blocking
+ is_throwable
  is_monst
  is_levitating
  hit_priority=10

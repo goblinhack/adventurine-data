@@ -11,6 +11,7 @@
  is_melee_weapon
  can_be_enchanted
  hit_priority=0
+ is_throwable
  is_carryable
  weapon_fire_delay_hundredths=30
  damage=1

@@ -6,6 +6,7 @@
  sound_on_death="urgh"
  can_fall
  is_not_light_blocking
+ is_throwable
  is_monst
  is_internal
  tiles={
