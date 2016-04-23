@@ -6,6 +6,7 @@
  is_spikes
  hit_priority=9
  damage=1
+ is_animated
  is_monst
  is_not_light_blocking
  can_fall

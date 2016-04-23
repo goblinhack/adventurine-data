@@ -167,9 +167,29 @@
    tile="player1-up-6"
   }
   tile={
-   delay_ms=200
-   tile="player1-1"
+   tile="player1-dead"
    is_dead
+   is_dir_left
+  }
+  tile={
+   tile="player1-dead"
+   is_dead
+   is_dir_right
+  }
+  tile={
+   tile="player1-dead"
+   is_dead
+   is_dir_up
+  }
+  tile={
+   tile="player1-dead"
+   is_dead
+   is_dir_down
+  }
+  tile={
+   tile="player1-dead"
+   is_dead
+   is_dir_none
   }
  }
 }
