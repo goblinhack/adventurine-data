@@ -3,13 +3,13 @@
  raw_name="smallrock6"
  tooltip="smallrock6"
  z_depth="wall_deco"
- is_collision_map_small
  hit_priority=9
  is_animated
  is_throwable
  is_not_light_blocking
  can_fall
  can_be_hit_chance=5
+ is_smallrock
  d10000_chance_of_appearing=1000
  is_light_source
  light_radius=0.5
