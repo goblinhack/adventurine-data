@@ -14,9 +14,19 @@
  is_light_source
  light_radius=3.0
  light_tint="blue"
+ is_animated
  tiles={
   tile={
-   tile="gem1"
+   tile="gem1.1"
+   delay_ms=20000
+  }
+  tile={
+   tile="gem1.2"
+   delay_ms=50
+  }
+  tile={
+   tile="gem1.3"
+   delay_ms=50
   }
  }
 }

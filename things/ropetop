@@ -1,0 +1,11 @@
+{
+ short_name="rope"
+ raw_name="rope"
+ tooltip="rope"
+ z_depth="ladder"
+ is_rope
+ can_fall
+ tiles={
+  tile={ tile="rope-top" }
+ }
+}
