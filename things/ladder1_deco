@@ -4,8 +4,9 @@
  tooltip="ladder_deco1"
  z_depth="ladder"
  is_ladder_deco
- can_fall
  is_ladder
+ is_climbable
+ can_fall
  tiles={
   tile={ tile="ladder1-top" is_join_top }
  }

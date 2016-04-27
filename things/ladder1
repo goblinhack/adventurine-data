@@ -4,6 +4,7 @@
  tooltip="ladder1"
  z_depth="ladder"
  is_ladder
+ is_climbable
  can_fall
  tiles={
   tile={ tile="ladder1-mid1" }
