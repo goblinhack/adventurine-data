@@ -4,8 +4,10 @@
  tooltip="rope"
  z_depth="ladder"
  is_rope
+ is_ropetop
  is_climbable
  can_fall
+ is_collision_map_medium
  tiles={
   tile={ tile="rope-top" }
  }
