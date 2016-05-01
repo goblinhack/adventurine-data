@@ -7,6 +7,7 @@
  is_wall_deco
  is_ethereal
  can_be_hit_chance=0
+ is_hidden_from_editor
  tiles={
   tile={
    tile="rock1-1-tl"

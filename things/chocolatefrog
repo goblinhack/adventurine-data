@@ -18,7 +18,7 @@
  is_animated
  tiles={
   tile={
-   tile="chocolatefrag"
+   tile="chocolatefrog"
   }
  }
 }

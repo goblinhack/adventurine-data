@@ -7,6 +7,7 @@
  is_ladder
  is_climbable
  can_fall
+ is_hidden_from_editor
  tiles={
   tile={ tile="ladder1-top" is_join_top }
  }

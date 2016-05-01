@@ -8,6 +8,7 @@
  is_climbable
  can_fall
  is_collision_map_medium
+ is_hidden_from_editor
  tiles={
   tile={ tile="rope-top" }
  }
