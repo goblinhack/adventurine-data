@@ -1994,10 +1994,6 @@
    y=16 
    t="water1" 
   } {   
-   x=5 
-   y=28 
-   t="torch" 
-  } {   
    x=8 
    y=28 
    t="torch" 
