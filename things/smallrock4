@@ -3,6 +3,7 @@
  raw_name="smallrock4"
  tooltip="smallrock4"
  z_depth="wall_deco"
+ damage=1
  hit_priority=9
  is_animated
  is_throwable
