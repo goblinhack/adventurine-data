@@ -10,6 +10,7 @@
  is_throwable
  damage=1
  can_be_hit_chance=50
+ can_roll
  tiles={
   tile={
    tile="boulder1"
