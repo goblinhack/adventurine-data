@@ -1859,10 +1859,6 @@
    t="water1" 
   } {   
    x=21 
-   y=12 
-   t="entrance1" 
-  } {   
-   x=21 
    y=14 
    t="water1" 
   } {   
@@ -1875,7 +1871,19 @@
    t="water1" 
   } {   
    x=8 
+   y=4 
+   t="torch" 
+  } {   
+   x=8 
    y=28 
+   t="torch" 
+  } {   
+   x=9 
+   y=5 
+   t="torch" 
+  } {   
+   x=9 
+   y=10 
    t="torch" 
   } {   
    x=9 
@@ -1883,7 +1891,15 @@
    t="dynamite" 
   } {   
    x=10 
-   y=11 
+   y=1 
+   t="torch" 
+  } {   
+   x=10 
+   y=6 
+   t="torch" 
+  } {   
+   x=11 
+   y=7 
    t="torch" 
   } {   
    x=11 
@@ -1891,18 +1907,38 @@
    t="torch" 
   } {   
    x=13 
-   y=6 
+   y=3 
+   t="torch" 
+  } {   
+   x=13 
+   y=5 
+   t="torch" 
+  } {   
+   x=14 
+   y=10 
+   t="torch" 
+  } {   
+   x=15 
+   y=11 
    t="torch" 
   } {   
    x=15 
    y=28 
    t="torch" 
   } {   
-   x=16 
-   y=6 
+   x=17 
+   y=2 
    t="torch" 
   } {   
-   x=16 
+   x=17 
+   y=9 
+   t="torch" 
+  } {   
+   x=18 
+   y=7 
+   t="torch" 
+  } {   
+   x=18 
    y=11 
    t="torch" 
   } {   
@@ -1914,8 +1950,28 @@
    y=28 
    t="torch" 
   } {   
+   x=21 
+   y=1 
+   t="torch" 
+  } {   
+   x=22 
+   y=10 
+   t="torch" 
+  } {   
    x=23 
    y=28 
+   t="torch" 
+  } {   
+   x=25 
+   y=9 
+   t="torch" 
+  } {   
+   x=26 
+   y=6 
+   t="torch" 
+  } {   
+   x=27 
+   y=3 
    t="torch" 
   } {   
    x=27 
@@ -1934,8 +1990,8 @@
    y=28 
    t="torch" 
   } {   
-   x=7 
-   y=6 
+   x=18 
+   y=5 
    t="player" 
   } {   
    x=0 
@@ -2259,6 +2315,50 @@
    t="wall1" 
   } {   
    x=8 
+   y=1 
+   t="wall1" 
+  } {   
+   x=8 
+   y=2 
+   t="wall1" 
+  } {   
+   x=8 
+   y=3 
+   t="wall1" 
+  } {   
+   x=8 
+   y=4 
+   t="wall1" 
+  } {   
+   x=8 
+   y=5 
+   t="wall1" 
+  } {   
+   x=8 
+   y=6 
+   t="wall1" 
+  } {   
+   x=8 
+   y=7 
+   t="wall1" 
+  } {   
+   x=8 
+   y=8 
+   t="wall1" 
+  } {   
+   x=8 
+   y=9 
+   t="wall1" 
+  } {   
+   x=8 
+   y=10 
+   t="wall1" 
+  } {   
+   x=8 
+   y=11 
+   t="wall1" 
+  } {   
+   x=8 
    y=12 
    t="wall1" 
   } {   
@@ -2316,175 +2416,235 @@
   } {   
    x=10 
    y=2 
+   t="boulder1" 
+  } {   
+   x=10 
+   y=4 
+   t="boulder1" 
+  } {   
+   x=10 
+   y=12 
+   t="wall1" 
+  } {   
+   x=10 
+   y=17 
+   t="wall1" 
+  } {   
+   x=10 
+   y=18 
+   t="wall1" 
+  } {   
+   x=10 
+   y=19 
+   t="wall1" 
+  } {   
+   x=10 
+   y=31 
+   t="wall1" 
+  } {   
+   x=10 
+   y=35 
+   t="wall1" 
+  } {   
+   x=11 
+   y=0 
+   t="wall1" 
+  } {   
+   x=11 
+   y=1 
+   t="boulder1" 
+  } {   
+   x=11 
+   y=6 
+   t="boulder1" 
+  } {   
+   x=11 
+   y=7 
+   t="boulder1" 
+  } {   
+   x=11 
+   y=9 
+   t="boulder1" 
+  } {   
+   x=11 
+   y=12 
+   t="wall1" 
+  } {   
+   x=11 
+   y=13 
+   t="wall1" 
+  } {   
+   x=11 
+   y=14 
+   t="wall1" 
+  } {   
+   x=11 
+   y=15 
+   t="wall1" 
+  } {   
+   x=11 
+   y=16 
+   t="wall1" 
+  } {   
+   x=11 
+   y=17 
+   t="wall1" 
+  } {   
+   x=11 
+   y=18 
+   t="wall1" 
+  } {   
+   x=11 
+   y=19 
+   t="wall1" 
+  } {   
+   x=11 
+   y=20 
+   t="wall1" 
+  } {   
+   x=11 
+   y=21 
+   t="wall1" 
+  } {   
+   x=11 
+   y=29 
+   t="wall1" 
+  } {   
+   x=11 
+   y=30 
+   t="wall1" 
+  } {   
+   x=11 
+   y=31 
+   t="wall1" 
+  } {   
+   x=11 
+   y=32 
+   t="wall1" 
+  } {   
+   x=11 
+   y=33 
+   t="wall1" 
+  } {   
+   x=11 
+   y=35 
+   t="wall1" 
+  } {   
+   x=12 
+   y=0 
+   t="wall1" 
+  } {   
+   x=12 
+   y=1 
+   t="boulder1" 
+  } {   
+   x=12 
+   y=8 
+   t="boulder1" 
+  } {   
+   x=12 
+   y=12 
+   t="wall1" 
+  } {   
+   x=12 
+   y=21 
+   t="wall1" 
+  } {   
+   x=12 
+   y=35 
+   t="wall1" 
+  } {   
+   x=13 
+   y=0 
+   t="wall1" 
+  } {   
+   x=13 
+   y=2 
+   t="boulder1" 
+  } {   
+   x=13 
+   y=3 
+   t="boulder1" 
+  } {   
+   x=13 
+   y=5 
+   t="boulder1" 
+  } {   
+   x=13 
+   y=12 
+   t="wall1" 
+  } {   
+   x=13 
+   y=21 
+   t="wall1" 
+  } {   
+   x=13 
+   y=30 
+   t="wall1" 
+  } {   
+   x=13 
+   y=31 
+   t="wall1" 
+  } {   
+   x=13 
+   y=32 
+   t="wall1" 
+  } {   
+   x=13 
+   y=35 
+   t="wall1" 
+  } {   
+   x=14 
+   y=0 
+   t="wall1" 
+  } {   
+   x=14 
+   y=3 
+   t="boulder1" 
+  } {   
+   x=14 
+   y=8 
+   t="boulder1" 
+  } {   
+   x=14 
+   y=9 
+   t="boulder1" 
+  } {   
+   x=14 
+   y=10 
+   t="boulder1" 
+  } {   
+   x=14 
+   y=12 
+   t="wall1" 
+  } {   
+   x=14 
+   y=21 
+   t="wall1" 
+  } {   
+   x=14 
+   y=29 
+   t="wall1" 
+  } {   
+   x=14 
+   y=33 
+   t="wall1" 
+  } {   
+   x=14 
+   y=35 
+   t="wall1" 
+  } {   
+   x=15 
+   y=0 
+   t="wall1" 
+  } {   
+   x=15 
+   y=6 
    t="boulder2" 
   } {   
-   x=10 
-   y=12 
-   t="wall1" 
-  } {   
-   x=10 
-   y=17 
-   t="wall1" 
-  } {   
-   x=10 
-   y=18 
-   t="wall1" 
-  } {   
-   x=10 
-   y=19 
-   t="wall1" 
-  } {   
-   x=10 
-   y=31 
-   t="wall1" 
-  } {   
-   x=10 
-   y=35 
-   t="wall1" 
-  } {   
-   x=11 
-   y=0 
-   t="wall1" 
-  } {   
-   x=11 
-   y=12 
-   t="wall1" 
-  } {   
-   x=11 
-   y=13 
-   t="wall1" 
-  } {   
-   x=11 
-   y=14 
-   t="wall1" 
-  } {   
-   x=11 
-   y=15 
-   t="wall1" 
-  } {   
-   x=11 
-   y=16 
-   t="wall1" 
-  } {   
-   x=11 
-   y=17 
-   t="wall1" 
-  } {   
-   x=11 
-   y=18 
-   t="wall1" 
-  } {   
-   x=11 
-   y=19 
-   t="wall1" 
-  } {   
-   x=11 
-   y=20 
-   t="wall1" 
-  } {   
-   x=11 
-   y=21 
-   t="wall1" 
-  } {   
-   x=11 
-   y=29 
-   t="wall1" 
-  } {   
-   x=11 
-   y=30 
-   t="wall1" 
-  } {   
-   x=11 
-   y=31 
-   t="wall1" 
-  } {   
-   x=11 
-   y=32 
-   t="wall1" 
-  } {   
-   x=11 
-   y=33 
-   t="wall1" 
-  } {   
-   x=11 
-   y=35 
-   t="wall1" 
-  } {   
-   x=12 
-   y=0 
-   t="wall1" 
-  } {   
-   x=12 
-   y=12 
-   t="wall1" 
-  } {   
-   x=12 
-   y=21 
-   t="wall1" 
-  } {   
-   x=12 
-   y=35 
-   t="wall1" 
-  } {   
-   x=13 
-   y=0 
-   t="wall1" 
-  } {   
-   x=13 
-   y=12 
-   t="wall1" 
-  } {   
-   x=13 
-   y=21 
-   t="wall1" 
-  } {   
-   x=13 
-   y=30 
-   t="wall1" 
-  } {   
-   x=13 
-   y=31 
-   t="wall1" 
-  } {   
-   x=13 
-   y=32 
-   t="wall1" 
-  } {   
-   x=13 
-   y=35 
-   t="wall1" 
-  } {   
-   x=14 
-   y=0 
-   t="wall1" 
-  } {   
-   x=14 
-   y=12 
-   t="wall1" 
-  } {   
-   x=14 
-   y=21 
-   t="wall1" 
-  } {   
-   x=14 
-   y=29 
-   t="wall1" 
-  } {   
-   x=14 
-   y=33 
-   t="wall1" 
-  } {   
-   x=14 
-   y=35 
-   t="wall1" 
-  } {   
    x=15 
-   y=0 
-   t="wall1" 
-  } {   
-   x=15 
-   y=8 
-   t="wall1" 
+   y=10 
+   t="boulder1" 
   } {   
    x=15 
    y=12 
@@ -2535,8 +2695,16 @@
    t="wall1" 
   } {   
    x=16 
-   y=8 
-   t="wall1" 
+   y=3 
+   t="boulder1" 
+  } {   
+   x=16 
+   y=9 
+   t="boulder1" 
+  } {   
+   x=16 
+   y=10 
+   t="boulder1" 
   } {   
    x=16 
    y=12 
@@ -2567,7 +2735,11 @@
    t="wall1" 
   } {   
    x=17 
-   y=8 
+   y=4 
+   t="boulder1" 
+  } {   
+   x=17 
+   y=12 
    t="wall1" 
   } {   
    x=17 
@@ -2583,7 +2755,11 @@
    t="wall1" 
   } {   
    x=18 
-   y=8 
+   y=3 
+   t="boulder1" 
+  } {   
+   x=18 
+   y=12 
    t="wall1" 
   } {   
    x=18 
@@ -2620,6 +2796,22 @@
   } {   
    x=19 
    y=0 
+   t="wall1" 
+  } {   
+   x=19 
+   y=3 
+   t="boulder1" 
+  } {   
+   x=19 
+   y=4 
+   t="boulder1" 
+  } {   
+   x=19 
+   y=6 
+   t="boulder1" 
+  } {   
+   x=19 
+   y=12 
    t="wall1" 
   } {   
    x=19 
@@ -2632,6 +2824,18 @@
   } {   
    x=20 
    y=0 
+   t="wall1" 
+  } {   
+   x=20 
+   y=2 
+   t="boulder1" 
+  } {   
+   x=20 
+   y=8 
+   t="boulder1" 
+  } {   
+   x=20 
+   y=12 
    t="wall1" 
   } {   
    x=20 
@@ -2668,6 +2872,14 @@
   } {   
    x=21 
    y=0 
+   t="wall1" 
+  } {   
+   x=21 
+   y=2 
+   t="boulder1" 
+  } {   
+   x=21 
+   y=12 
    t="wall1" 
   } {   
    x=21 
@@ -2696,6 +2908,18 @@
   } {   
    x=22 
    y=0 
+   t="wall1" 
+  } {   
+   x=22 
+   y=2 
+   t="boulder1" 
+  } {   
+   x=22 
+   y=6 
+   t="boulder2" 
+  } {   
+   x=22 
+   y=12 
    t="wall1" 
   } {   
    x=22 
@@ -2732,6 +2956,26 @@
   } {   
    x=23 
    y=0 
+   t="wall1" 
+  } {   
+   x=23 
+   y=3 
+   t="boulder1" 
+  } {   
+   x=23 
+   y=9 
+   t="boulder1" 
+  } {   
+   x=23 
+   y=12 
+   t="wall1" 
+  } {   
+   x=23 
+   y=13 
+   t="wall1" 
+  } {   
+   x=23 
+   y=14 
    t="wall1" 
   } {   
    x=23 
@@ -2748,6 +2992,18 @@
   } {   
    x=24 
    y=0 
+   t="wall1" 
+  } {   
+   x=24 
+   y=12 
+   t="wall1" 
+  } {   
+   x=24 
+   y=13 
+   t="wall1" 
+  } {   
+   x=24 
+   y=14 
    t="wall1" 
   } {   
    x=24 
@@ -2756,6 +3012,18 @@
   } {   
    x=25 
    y=0 
+   t="wall1" 
+  } {   
+   x=25 
+   y=2 
+   t="boulder1" 
+  } {   
+   x=25 
+   y=12 
+   t="wall1" 
+  } {   
+   x=25 
+   y=13 
    t="wall1" 
   } {   
    x=25 
@@ -2764,6 +3032,26 @@
   } {   
    x=26 
    y=0 
+   t="wall1" 
+  } {   
+   x=26 
+   y=6 
+   t="boulder1" 
+  } {   
+   x=26 
+   y=7 
+   t="boulder1" 
+  } {   
+   x=26 
+   y=8 
+   t="boulder1" 
+  } {   
+   x=26 
+   y=12 
+   t="wall1" 
+  } {   
+   x=26 
+   y=13 
    t="wall1" 
   } {   
    x=26 
@@ -2772,6 +3060,18 @@
   } {   
    x=27 
    y=0 
+   t="wall1" 
+  } {   
+   x=27 
+   y=9 
+   t="boulder1" 
+  } {   
+   x=27 
+   y=12 
+   t="wall1" 
+  } {   
+   x=27 
+   y=13 
    t="wall1" 
   } {   
    x=27 
@@ -2796,6 +3096,14 @@
   } {   
    x=28 
    y=0 
+   t="wall1" 
+  } {   
+   x=28 
+   y=12 
+   t="wall1" 
+  } {   
+   x=28 
+   y=13 
    t="wall1" 
   } {   
    x=28 
@@ -2804,6 +3112,58 @@
   } {   
    x=29 
    y=0 
+   t="wall1" 
+  } {   
+   x=29 
+   y=1 
+   t="wall1" 
+  } {   
+   x=29 
+   y=2 
+   t="wall1" 
+  } {   
+   x=29 
+   y=3 
+   t="wall1" 
+  } {   
+   x=29 
+   y=4 
+   t="wall1" 
+  } {   
+   x=29 
+   y=5 
+   t="wall1" 
+  } {   
+   x=29 
+   y=6 
+   t="wall1" 
+  } {   
+   x=29 
+   y=7 
+   t="wall1" 
+  } {   
+   x=29 
+   y=8 
+   t="wall1" 
+  } {   
+   x=29 
+   y=9 
+   t="wall1" 
+  } {   
+   x=29 
+   y=10 
+   t="wall1" 
+  } {   
+   x=29 
+   y=11 
+   t="wall1" 
+  } {   
+   x=29 
+   y=12 
+   t="wall1" 
+  } {   
+   x=29 
+   y=13 
    t="wall1" 
   } {   
    x=29 
