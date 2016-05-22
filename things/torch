@@ -16,7 +16,7 @@
  is_light_source
  is_candle_light
  light_radius=2.5
- light_tint="orange"
+ light_tint="yellow"
  tiles={
   tile={
    tile="torch-lit2-1"
